@@ -7,10 +7,8 @@
     "start": "node index.js",
     "test": "start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/LoliKillers/Arnz-Api.git"
-  },
+  
+
   "author": "LolKill & Zee",
   "license": "ISC",
   "bugs": {
